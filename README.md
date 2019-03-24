@@ -3,6 +3,8 @@
 ![Hàm sigmoid](https://i1.wp.com/nttuan8.com/wp-content/uploads/2019/02/logistic-1.png?w=743&ssl=1)
 
 [bài viet logistic regression của **nttuan8.com**](https://nttuan8.com/bai-2-logistic-regression/)
+
+(https://cs231n.github.io/optimization-2/)
 > thiết lập **chain rule** hàm sigmoid bằng **biểu đồ**
 
 [bài viết logistic regression của **machinelearningcoban**](https://machinelearningcoban.com/2017/01/27/logisticregression/)
